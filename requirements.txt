@@ -1,0 +1,8 @@
+kivy>=2.1.0
+kivymd>=1.1.1
+python-obd>=0.7.1
+pybluez>=0.23;platform_system!="Windows"
+bleak>=0.19.5
+pyserial>=3.5
+pytest>=7.0.0
+plyer>=2.1.0
